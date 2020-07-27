@@ -1,9 +1,9 @@
 # state-machine
 This library is a simple implementation of Finite State Machine in java. To use this, you just need to define your stateTransitions for your use case and the corresponding Transition handler and you are good to go.
 
-##How to use
+## How to use
 
-###Sample state machine
+### Sample state machine
 We will consider a sample state machine which depicts a File lifecycle which has been submitted for processing
 
    ![Sample state machine](src/main/resources/images/file_lifecycle.png "Order State machine")
